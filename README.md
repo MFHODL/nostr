@@ -1,1 +1,2 @@
-# nostr
+# Nostr
+## Public nostr stuff
